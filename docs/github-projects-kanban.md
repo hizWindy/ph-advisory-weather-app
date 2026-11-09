@@ -151,5 +151,5 @@ Talk in the group chat. One card has one owner.
    - **Item added to project**: set Status to Backlog.
    - **Item closed** and **Pull request merged**: set Status to Done. These are usually on already.
    - **Auto-add to project**: add new issues from this repo automatically.
-5. **Add labels** in the repo (**Issues**, then **Labels**): `frontend`, `backend`, `data`, `ai`, `design`, `qa`, `bug`, `blocked`.
+5. **Add labels** in the repo (**Issues**, then **Labels**): `frontend`, `backend`, `data`, `ai`, `design`, `qa`, `setup` (first-week and repo setup cards), `bug`, `blocked`.
 6. **Invite the team.** Add everyone as a collaborator on the repo (**Settings**, then **Collaborators**) and on the project (project **Settings**, then **Manage access**).
