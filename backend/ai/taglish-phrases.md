@@ -1,84 +1,87 @@
 # PH Weather Advisor – Taglish Weather Phrases and Tone Guidelines
 
-*For `backend/ai/taglish-phrases.md` · Last updated: November 10, 2026*
+*For `backend/ai/taglish-phrases.md` · Updated November 10, 2026*
 
 ## 1. Purpose
 
-This document gives the PH Weather Advisor team language references for natural weather advice and five tone rules for the app's AI. It supports the **Explain it simply** stage: the AI turns weather facts from the app into advice; it must not invent forecasts, temperatures, probabilities, or official warnings.
+This phrase bank helps PH Weather Advisor communicate weather advice in a natural Filipino style. It supports the app's **Explain it simply** stage: the AI explains weather facts already supplied by the app; it must not invent forecasts, temperatures, rain chances, flood conditions, or official warnings.
 
-## 2. Research Notes
+## 2. Research and Validation Notes
 
-Phrases were gathered from Philippine news reports, public social posts quoted by news, broadcast/official sources, and one language-learning lesson. Wording is kept as quoted in the source. No friends-and-family interviews were conducted.
+This version combines selected expressions from Claude's research with the stronger suggestions provided by the project team.
 
-**Evidence labels**
-- **A – Everyday voice:** An ordinary person speaking or posting.
-- **B – Broadcast/official voice:** A news desk or weather specialist; useful language evidence, but more formal than casual speech.
-- **C – Pending validation:** From scripted learning material; confirm with real speakers before treating it as everyday speech.
+**Labels**
+- **Source-backed:** A published article, public post, or language reference is linked.
+- **Candidate—validate:** Suggested by the team, but should be checked with friends or family before being described as a verified everyday expression.
+- **Official/broadcast:** A real phrase from a weather specialist or news source; useful for vocabulary, but more formal than casual conversation.
 
-**Count:** 12 A · 7 B · 1 C.
+Not every entry is a verified casual quote. The interview questions in Section 7 can help validate the candidate expressions.
 
-**Limitations:** Some social posts were only available through news articles, not the original threads. Research leans toward Metro Manila/Luzon and flood- and heat-related coverage. Casual friend/family commute messages, farmers, and Visayan and Mindanao speakers are under-represented. R7, H1, and L6 are undated; H5's speaker is unclear in the excerpt.
+## 3. Rain (7 expressions)
 
-## 3. Rain (7 phrases)
+1. **“Bed weather” — Source-backed.** A playful expression for cool, rainy weather that makes people want to stay in bed. It is English wording used in Filipino media. [Philstar, July 31, 2017](https://www.philstar.com/lifestyle/food-and-leisure/2017/07/31/1723236/5-ways-beat-bed-weather-coffee-or-tea)
+2. **“May kinakasal na tikbalang.” — Source-backed.** A familiar Filipino saying for a sunshower: rain falling while the sun is shining. [Batangas History, March 3, 2018](https://www.batangashistory.date/2018/03/beliefslian.html) · [Research on Filipino farmers' weather knowledge](https://eprints.lse.ac.uk/114965/1/1_s2.0_S2212096321000279_main_2_.pdf)
+3. **“Makulimlim.” — Candidate—validate.** Describes dark or overcast skies. It does not necessarily mean that heavy rain will follow.
+4. **“Umaambon na.” — Source-backed language example.** Means it is drizzling. [Tagalog weather phrase reference](https://www.tagtalk.ph/tagalog-phrases/weather/)
+5. **“Umuulan na.” — Source-backed language example.** A simple way to say that it is raining. [Tagalog weather phrase reference](https://www.tagtalk.ph/tagalog-phrases/weather/)
+6. **“May tsansa ng biglaang buhos ng ulan dahil sa thunderstorm.” — Official/broadcast.** A PAGASA specialist's example of natural Filipino-English weather language. [Inquirer, June 19, 2021](https://newsinfo.inquirer.net/1448166/pagasa-brace-for-hot-saturday-with-isolated-rain-showers)
+7. **“Tumila na ang ulan.” — Source-backed language example.** Means the rain has stopped. This corrects the suggested wording “Tila na.” [Tagalog weather phrase reference](https://www.tagtalk.ph/tagalog-phrases/weather/) · [Tagalog dictionary entry for *tumila*](https://tagalog.pinoydictionary.com/list/t/127/)
 
-1. **R1 · A — Resident quote:** “Parang hihinga ka lang ng konti, ayan na ‘yung tubig sa harap mo” — A resident describes how quickly floodwater rises (“You barely take a breath and the water is already right there.”). [GMA News · Aug 7, 2022](https://www.gmanetwork.com/news/topstories/metro/840795/flooding-hits-parts-of-metro-manila-amid-continuous-rain/story/)
-2. **R2 · A — Commuter quote:** “lulusong sa baha, tapos pag uwi din sa bahay baha din” *(excerpt)* — Describes encountering floodwater on the way home and at home (“You wade through the flood, and there’s flooding at home too.”). [GMA News · Aug 24, 2025](https://www.gmanetwork.com/news/topstories/metro/956858/metro-manilans-bemoan-flooding-as-heavy-rains-hit-ncr/story/)
-3. **R3 · B — DZRH news desk post:** “Abot-tuhod na baha, nararanasan sa bahagi ng Tanza” *(excerpt)* — “Knee-deep flooding in part of Tanza.” Flood depth is an observed condition; the app must not claim it without flood-depth data. [DZRH · Jul 23, 2024](https://dzrh.com.ph/post/several-areas-in-metro-manila-faces-flood-amid-ty-carina-reports)
-4. **R4 · A — TikTok caption quoted by news:** “Binaha na nga, binasa pa.” — A complaint about a vehicle splashing people in floodwater (“Already flooded, and now soaked too.”). [Interaksyon · Aug 18, 2026](https://interaksyon.philstar.com/trends-spotlights/2026/08/18/317939/pickup-truck-online-ire-speeding-manila-campus-floodwaters/)
-5. **R5 · B — PAGASA specialist:** “huwag po nating kalimutan ‘yung mga pananggalang natin dito sa mga biglaang pag-ulan” *(excerpt)* — Reminder to prepare for sudden rain. *Pananggalang* is formal/broadcast Filipino; *payong* or *kapote* is more familiar. [Inquirer · Jan 9, 2024](https://newsinfo.inquirer.net/1885854/sudden-brief-rains-to-dampen-metro-manila-pagasa)
-6. **R6 · B — PAGASA specialist:** “may tsansa ng biglaang buhos ng ulan dahil sa thunderstorm” — Shows Filipino-English code-switching when describing a possible sudden downpour. [Inquirer · Jun 19, 2021](https://newsinfo.inquirer.net/1448166/pagasa-brace-for-hot-saturday-with-isolated-rain-showers)
-7. **R7 · A — Personal blog:** “Ayan na ang ulan, mukhang babagyo na!” — A written reaction to approaching rain (“Here comes the rain; looks like a storm is coming!”). Confirm that people use it in spoken conversation. [Steemit · date not captured](https://steemit.com/pilipinas/@sunnylife/kumulog-kumidlat-bubuhos-kaya-ang-ulan)
+**Use with care:** “Baha na” should only be said when flooding is actually observed or confirmed by a reliable source. “Bagyo na naman” should only be used when a typhoon is confirmed; ordinary rain does not mean a typhoon is occurring.
 
-**Language notes:** Sources distinguish *ulan* (rain) from *baha* (flood). Sudden or heavy rain is described with words such as *bigla*, *biglaan*, and *buhos*. The app must not infer flooding or flood depth from rain forecasts alone.
+## 4. Heat (7 expressions)
 
-## 4. Heat (7 phrases)
+1. **“Ang init naman dito!” — Source-backed language example.** A simple everyday complaint about hot weather. [Tagalog weather phrase reference](https://www.tagtalk.ph/tagalog-phrases/weather/)
+2. **“Maalinsangan.” — Candidate—validate.** Describes hot, humid, uncomfortable weather.
+3. **“Grabe pa rin ang pawis natin dahil sa init ng panahon.” — Source-backed, everyday voice.** A commuter describes sweating in the heat. [RepublicAsia, date not shown](https://republicasiamedia.com/generation/dry-season-diaries-how-filipinos-are-coping-with-record-heat)
+4. **“Maliligo ka pa lang, pinagpapawisan ka na.” — Candidate—validate.** A relatable, humorous complaint about how hot it feels.
+5. **“Sobrang lagkit.” — Candidate—validate.** Describes the sticky, uncomfortable feeling associated with humid weather.
+6. **“Kuntodo-payong.” — Candidate—validate.** Suggested shorthand for using an umbrella to shield yourself from strong sunlight. Confirm that people in the target audience use this wording naturally.
+7. **“Kung wala lang kaming importanteng lakad, hindi kami lalabas.” — Source-backed, everyday voice.** A resident explains avoiding unnecessary trips during extreme heat. [GMA Regional TV, April 8, 2025](https://gmanetwork.com/regionaltv/news/107487/hotter-weather-expected-during-holy-week-pagasa-says/story)
 
-1. **H1 · A — Commuter quote:** “grabe pa rin ang pawis natin dahil sa init ng panahon” *(excerpt)* — A commuter describes sweating in a rush-hour queue (“We’re still sweating heavily because of the heat.”). [RepublicAsia · date not shown](https://republicasiamedia.com/generation/dry-season-diaries-how-filipinos-are-coping-with-record-heat)
-2. **H2 · A — Reddit post quoted by news:** “No. 3 tas nakatutok pa sayo sa sobrang init” — A humorous caption about needing two electric fans because of the heat. [Interaksyon · May 21, 2021](https://interaksyon.philstar.com/trends-spotlights/2021/05/21/192320/two-fans-one-stand-how-some-filipinos-are-dealing-with-luzons-high-heat-index/) · [Reddit thread](https://www.reddit.com/r/Philippines/comments/nh0daw/no_3_tas_nakatutok_pa_sayo_sa_sobrang_init/)
-3. **H3 · A — Resident quote:** “Kung wala lang kaming importanteng lakad hindi kami lalabas” — A resident explains staying indoors during dangerous heat (“If we had no important errand, we wouldn’t go out.”). [GMA Regional TV · Apr 8, 2025](https://gmanetwork.com/regionaltv/news/107487/hotter-weather-expected-during-holy-week-pagasa-says/story)
-4. **H4 · A — Vendor quote:** “Sobrang init, kaysa naman po ma-i-stroke” — A vendor explains drinking cold drinks while working (“It’s so hot; better that than getting a heat stroke.”). [Los Baños Times · May 1, 2026](https://lbtimes.ph/matinding-init-kawalan-ng-disenteng-espasyo-danas-ng-mga-manggagawa-sa-tapat-ng-olivarez-plaza/)
-5. **H5 · B — Official quoted in news:** “Uminom ng maraming tubig as much as possible” *(excerpt)* — A hydration reminder. The speaker is not identified in the captured excerpt; verify before relying on the attribution. [GMA Regional TV · Mar 2026](https://www.gmanetwork.com/regionaltv/news/113534/pagasa-warns-of-extreme-heat-during-holy-week-in-cotabato-city/story/)
-6. **H6 · B — PAGASA specialist:** “yung mismong na fi-feel ng katawan natin na init” — Explains the heat the body actually feels (“the heat our body actually feels”). [GMA Regional TV · Aug 2026](https://www.gmanetwork.com/regionaltv/news/115185/pagasa-urges-public-to-brace-for-more-intense-heat/story/)
-7. **H7 · B — News report explanation:** “Kapag mataas ang humidity, bumabagal ang pag-singaw ng pawis” — Explains why humid days feel worse (“When humidity is high, sweat evaporates more slowly.”). [GMA Balitambayan · Apr 8, 2026](https://www.gmanetwork.com/news/balitambayan/balita/982999/init-ng-panahon-posible-pa-raw-tumindi-sa-ilang-bahagi-ng-bansa-ayon-sa-pagasa/story/)
+**Language note:** “Tag-init” names the hot/dry season; it is useful vocabulary, but it is a season label rather than an everyday expression about how hot it feels today.
 
-**Language notes:** Everyday heat expressions are often sensory and brief (*sobrang init*, *grabe ang pawis*). Terms such as *heat index* may remain in English. People also describe decisions, such as staying indoors when it is too hot.
+## 5. Leaving or Going Home (6 expressions)
 
-## 5. Leaving or Going Home (6 phrases)
-
-1. **L1 · A — Commuter quote:** “Dapat kanina pa eh. Sobrang lakas ng ulan, baha pa.” — A commuter in Cainta describes being delayed by heavy rain and flooding (“I should’ve been there earlier. The rain is very heavy, and there’s flooding too.”). [ABS-CBN News · Jul 24, 2024](https://abs-cbn.com/regions/2024/7/24/commuters-brave-floods-along-major-road-in-cainta-rizal-1635)
-2. **L2 · A — Commuter quote:** “Dalawang oras o tatlong oras ako nag-aantay para makauwi sa Divisoria” — Describes waiting hours for a ride home during heavy rain (“I wait two or three hours just to get home to Divisoria.”). [ABS-CBN News · Jul 18, 2022](https://news.abs-cbn.com/news/07/18/22/rain-worsens-woes-of-metro-manila-commuters)
-3. **L3 · A — Student quote:** “Hinihintay po kasi namin ‘yung [class] suspension” — Students wait for a suspension announcement before deciding what to do (“We were waiting for the [class] suspension.”). [GMA News · Aug 17, 2026](https://www.gmanetwork.com/news/topstories/metro/998878/manila-floods-commuters-habagat-rains/story/)
-4. **L4 · A — Public post quoted by news:** “Iwasan nyo na din munang umalis ng bahay kung d naman masyadong kailangan” — A reminder to avoid unnecessary trips during habagat flooding (“Avoid leaving the house for now unless it’s really necessary.”). [Interaksyon · Jul 22, 2025](https://interaksyon.philstar.com/trends-spotlights/2025/07/22/299413/ninong-ry-message-habagat-flooding/amp/)
-5. **L5 · B — DZBB news desk post quoted by news:** “Pahirapan ang commute ngayong Huwebes ng umaga” — Describes a difficult commute during heavy rain (“Commuting is a struggle this Thursday morning.”). [GMA News · Jul 2, 2025](https://www.gmanetwork.com/news/topstories/metro/951362/commuters-stranded-amid-heavy-rains-in-metro-manila/story)
-6. **L6 · C — Scripted lesson, pending validation:** “magdala ka na rin ng payong ha” *(excerpt)* — A friendly umbrella reminder (“Bring an umbrella too, okay?”). This is from a scripted lesson, not verified everyday speech. [FilipinoPod101 · undated](https://www.filipinopod101.com/lesson/intermediate-18-getting-ready-for-a-trip-in-the-philippines)
-
-**Language notes:** Commuting expressions focus on timing, waiting, and checking announcements. Publicly available research did not capture many casual friend/family messages about going home in the rain; collect these directly to fill the gap.
+1. **“Hala, ang lakas! May dalang payong?” — Candidate—validate.** A quick reminder when heavy rain is falling and someone is about to leave.
+2. **“Magpalipas ka muna ng ulan bago ka bumiyahe.” — Candidate—validate.** Friendly advice to wait for the rain to ease before travelling.
+3. **“Mag-ingat sa baha, baka ma-stranded ka.” — Candidate—validate.** A warning about possible flooding and travel disruption. The app should only mention flood risk when supported by reliable flood information.
+4. **“Mag-chat ka agad pag nakauwi ka na, ha?” — Candidate—validate.** A caring message asking someone to confirm that they arrived safely.
+5. **“Dapat kanina pa eh. Sobrang lakas ng ulan, baha pa.” — Source-backed, everyday voice.** A commuter describes being delayed by heavy rain and flooding. [ABS-CBN News, July 24, 2024](https://abs-cbn.com/regions/2024/7/24/commuters-brave-floods-along-major-road-in-cainta-rizal-1635)
+6. **“Iwasan nyo na din munang umalis ng bahay kung d naman masyadong kailangan.” — Source-backed public post.** A reminder to avoid unnecessary trips during habagat flooding. Preserve the original spelling as posted. [Interaksyon, July 22, 2025](https://interaksyon.philstar.com/trends-spotlights/2025/07/22/299413/ninong-ry-message-habagat-flooding/amp/)
 
 ## 6. Tone Guidelines
 
-**Core tone: short, friendly, and easy to understand.** Apply these rules across the app's advice, Alis-Uwi Planner, Heat Check, Ask a Question, and Share to the GC.
+**Core tone: short, friendly, and easy to understand.**
 
-1. **Short and direct — Sagot agad.** Answer first in 1–2 short sentences. Include the relevant time and one useful action. Avoid long introductions.  
-   *Example:* “Uuwi ka ng 5? May 70% chance ng ulan mula 4 hanggang 6 PM. Magdala ka ng payong.”
-2. **Friendly and conversational — Parang kaibigan.** Sound like a helpful friend, not a news announcer. Use familiar, warm language without scolding or overusing emojis.  
-   *Example:* “Ingat! Dala ka ng payong pauwi.”
-3. **Simple, natural Taglish — Natural, hindi pilit.** Use familiar Filipino words and common English terms naturally. Avoid stiff translations, deep vocabulary, and confusing slang. Reply in the user's language.  
-   *Example:* “Maaraw hanggang 3 PM. Ipasok na ang sampay bago mag-3.”
-4. **Practical and relevant — May payo.** Give one action connected to the user's plans. For questions, answer yes/no first, then briefly explain.  
-   *Example:* “Walang ulan sa alis mo ng 7 AM, pero may chance ng ulan sa uwian mo ng 6 PM. Magdala ka ng payong.”
-5. **Accurate and responsible — Totoo lang.** Use only facts supplied by the app's rules engine. Match wording to the forecast; never invent rain chances, temperatures, flood levels, road conditions, or warnings. Be serious during severe weather and refer users to PAGASA for official alerts.  
-   *Example:* “Malakas na ulan ang forecast mamayang 5–8 PM. Maghintay sa ligtas na lugar kung kailangan. Para sa opisyal na babala, tingnan ang PAGASA.”
+1. **Short and direct — Sagot agad.** Answer in 1–2 short sentences. Put the useful information first.
+   - Good: “Uuwi ka ng 5? May 70% chance ng ulan mula 4 hanggang 6 PM. Magdala ka ng payong.”
+   - Avoid: Long introductions and formal weather-report wording.
+
+2. **Friendly and conversational — Parang kaibigan.** Sound caring and approachable, not robotic or scolding.
+   - Good: “Ingat! Dala ka ng payong pauwi.”
+   - Avoid: “Sabi ko sa ’yo magdala ka ng payong, eh!” as the app's voice; it sounds scolding.
+
+3. **Simple, natural Taglish — Natural, hindi pilit.** Use familiar Filipino words and common English terms naturally. Avoid deep or forced translations.
+   - Good: “Makulimlim ngayon. Check mo muna ang forecast bago umalis.”
+   - Avoid: Overly formal or unnatural translations.
+
+4. **Practical and relevant — May payo.** Connect the advice to the user's plans, such as commuting, going home, or doing laundry.
+   - Good: “May chance ng ulan sa uwian mo. Magdala ka ng payong.”
+   - Avoid: Listing weather numbers without explaining what the user can do.
+
+5. **Accurate and responsible — Totoo lang.** Use only information supplied by the app. Do not invent temperatures, rain chances, flood levels, road conditions, or warnings. Keep severe-weather messages serious and direct; refer users to PAGASA for official alerts.
+   - Good: “Malakas na ulan ang forecast mamayang 5–8 PM. Para sa opisyal na babala, tingnan ang PAGASA.”
+   - Avoid: Claiming that an area is flooded or a typhoon is approaching unless reliable data confirms it.
 
 ## 7. Friends and Family Validation
 
-No private interviews were conducted. Use these questions to collect real expressions; record the exact words people use and whether they said or typed them.
+The candidate expressions above still need confirmation from actual speakers. Ask people for the exact words they use; do not suggest an answer first.
 
-1. “Kapag biglang umulan o nakita mong uulan na, ano ang una mong sinasabi?”
+1. “Kapag biglang umulan, ano ang una mong sinasabi?”
 2. “Kapag sobrang init o maalinsangan, paano mo sinasabi ’yon sa barkada o pamilya?”
-3. “Kapag aalis o pauwi ang isang tao tapos baka umulan, ano ang sinasabi o tine-text mo?”
-4. “Kapag nag-iisip kang magdala ng payong, ano ang sinasabi o tinatanong mo?”
-5. “Ano ang ipinapadala mo sa GC o pamilya kapag masama ang panahon at pauwi na sila?”
-6. *(Optional: sampay/farming)* “Kailan mo sinasabing ‘ipasok na ang sampay’? Ano ang sinasabi ninyo sa bukid kapag uulan na?”
+3. “Kapag aalis o pauwi ang isang tao at baka umulan, ano ang sinasabi o tine-text mo?”
+4. “Ano ang ipinapadala mo sa GC kapag masama ang panahon at pauwi na ang isang kapamilya o kaibigan?”
 
 | Participant | Exact expression | Category | Context (spoken/chat) |
 |---|---|---|---|
@@ -86,4 +89,14 @@ No private interviews were conducted. Use these questions to collect real expres
 | Friend / family member | | | |
 | Friend / family member | | | |
 
-**Follow-up:** Validate L6 with actual speakers. Add locally collected examples, especially for casual commute messages, farmers, and speakers outside Luzon.
+## 8. Expressions Not Included in the Main Phrase Bank
+
+- **“Bagyo na naman.”** A casual reaction, but use only when a typhoon is actually confirmed.
+- **“Grabe, daig pa ang impiyerno sa init ngayon!”** Very exaggerated; not suitable for the app's calm, friendly voice.
+- **“Tag-init.”** A season name, not a description of how today's weather feels.
+- **“Sabi ko sa ’yo magdala ka ng payong, eh!”** Sounds scolding; do not imitate this tone.
+- **“Mag-hot shower ka agad pagdating mo para hindi ka sipunin.”** Excluded because it makes a health claim that is outside the app's weather-advice scope.
+
+---
+
+*Implementation note: This is language reference material, not the AI prompt. The AI explains weather facts from the rules engine and must never make up forecast or safety information.*
