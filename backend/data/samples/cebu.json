@@ -2,9 +2,9 @@
     "latitude": 10.29877,
     "longitude": 123.84886,
     "generationtime_ms": 1.1909008026123,
-    "utc_offset_seconds": 0,
-    "timezone": "GMT",
-    "timezone_abbreviation": "GMT",
+  "utc_offset_seconds": 28800,
+  "timezone": "Asia/Manila",
+  "timezone_abbreviation": "GMT+8",
     "elevation": 43,
     "hourly_units": {
         "time": "iso8601",
