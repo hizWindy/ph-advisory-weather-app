@@ -1,0 +1,204 @@
+
+[
+  {
+    "id": "manila",
+    "name": "Manila",
+    "province": "NCR",
+    "region": "National Capital Region",
+    "postal_code": "1000",
+    "latitude": 14.5995,
+    "longitude": 120.9842,
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": "quezon-city",
+    "name": "Quezon City",
+    "province": "NCR",
+    "region": "National Capital Region",
+    "postal_code": "1100",
+    "latitude": 14.6760,
+    "longitude": 121.0437,
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": "makati-city",
+    "name": "Makati City",
+    "province": "NCR",
+    "region": "National Capital Region",
+    "postal_code": "1200",
+    "latitude": 14.5547,
+    "longitude": 121.0244,
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": "pasig-city",
+    "name": "Pasig City",
+    "province": "NCR",
+    "region": "National Capital Region",
+    "postal_code": "1600",
+    "latitude": 14.5764,
+    "longitude": 121.0851,
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": "taguig-city",
+    "name": "Taguig City",
+    "province": "NCR",
+    "region": "National Capital Region",
+    "postal_code": "1630",
+    "latitude": 14.5176,
+    "longitude": 121.0509,
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": "pasay-city",
+    "name": "Pasay City",
+    "province": "NCR",
+    "region": "National Capital Region",
+    "postal_code": "1300",
+    "latitude": 14.5378,
+    "longitude": 121.0014,
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": "paranaque-city",
+    "name": "Parañaque City",
+    "province": "NCR",
+    "region": "National Capital Region",
+    "postal_code": "1700",
+    "latitude": 14.4793,
+    "longitude": 121.0198,
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": "muntinlupa-city",
+    "name": "Muntinlupa City",
+    "province": "NCR",
+    "region": "National Capital Region",
+    "postal_code": "1770",
+    "latitude": 14.4081,
+    "longitude": 121.0415,
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": "cebu-city",
+    "name": "Cebu City",
+    "province": "Cebu",
+    "region": "Central Visayas",
+    "postal_code": "6000",
+    "latitude": 10.3157,
+    "longitude": 123.8854,
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": "mandaue-city",
+    "name": "Mandaue City",
+    "province": "Cebu",
+    "region": "Central Visayas",
+    "postal_code": "6014",
+    "latitude": 10.3236,
+    "longitude": 123.9220,
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": "lapu-lapu-city",
+    "name": "Lapu-Lapu City",
+    "province": "Cebu",
+    "region": "Central Visayas",
+    "postal_code": "6015",
+    "latitude": 10.3103,
+    "longitude": 123.9494,
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": "talisay-city",
+    "name": "Talisay City",
+    "province": "Cebu",
+    "region": "Central Visayas",
+    "postal_code": "6045",
+    "latitude": 10.2447,
+    "longitude": 123.8494,
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": "danao-city",
+    "name": "Danao City",
+    "province": "Cebu",
+    "region": "Central Visayas",
+    "postal_code": "6004",
+    "latitude": 10.5208,
+    "longitude": 124.0272,
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": "naga-city-cebu",
+    "name": "Naga City",
+    "province": "Cebu",
+    "region": "Central Visayas",
+    "postal_code": "6037",
+    "latitude": 10.2081,
+    "longitude": 123.7580,
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": "davao-city",
+    "name": "Davao City",
+    "province": "Davao del Sur",
+    "region": "Davao Region",
+    "postal_code": "8000",
+    "latitude": 7.1907,
+    "longitude": 125.4553,
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": "panabo-city",
+    "name": "Panabo City",
+    "province": "Davao del Norte",
+    "region": "Davao Region",
+    "postal_code": "8105",
+    "latitude": 7.3081,
+    "longitude": 125.6842,
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": "tagum-city",
+    "name": "Tagum City",
+    "province": "Davao del Norte",
+    "region": "Davao Region",
+    "postal_code": "8100",
+    "latitude": 7.4478,
+    "longitude": 125.8078,
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": "digos-city",
+    "name": "Digos City",
+    "province": "Davao del Sur",
+    "region": "Davao Region",
+    "postal_code": "8002",
+    "latitude": 6.7497,
+    "longitude": 125.3572,
+    "timezone": "Asia/Manila"
+  },
+  {
+    "id": "mati-city",
+    "name": "Mati City",
+    "province": "Davao Oriental",
+    "region": "Davao Region",
+    "postal_code": "8200",
+    "latitude": 6.9551,
+    "longitude": 126.2166,
+    "timezone": "Asia/Manila"
+  },
+  {
+  "id": "butuan-city",
+  "name": "Butuan City",
+  "province": "Agusan del Norte",
+  "region": "Caraga Region",
+  "postal_code": "8600",
+  "latitude": 8.9492,
+  "longitude": 125.5436,
+  "timezone": "Asia/Manila"
+}
+ 
+]
