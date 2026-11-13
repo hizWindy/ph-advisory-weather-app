@@ -70,7 +70,7 @@ git push                             # every push after that
 **7. After it's merged**, clean up:
 
 ```bash
-git switch main
+git switch main 
 git pull
 git branch -d 12-city-picker
 ```
