@@ -36,19 +36,19 @@ Not every entry is a verified casual quote. The interview questions in Section 7
 3. **“Grabe pa rin ang pawis natin dahil sa init ng panahon.” — Source-backed, everyday voice.** A commuter describes sweating in the heat. [RepublicAsia, date not shown](https://republicasiamedia.com/generation/dry-season-diaries-how-filipinos-are-coping-with-record-heat)
 4. **“Maliligo ka pa lang, pinagpapawisan ka na.” — Candidate—validate.** A relatable, humorous complaint about how hot it feels.
 5. **“Sobrang lagkit.” — Candidate—validate.** Describes the sticky, uncomfortable feeling associated with humid weather.
-6. **“Kuntodo-payong.” — Candidate—validate.** Suggested shorthand for using an umbrella to shield yourself from strong sunlight. Confirm that people in the target audience use this wording naturally.
+6. **“Mag-payong ka kasi mainit sa labas.” — validated.** Suggested shorthand for using an umbrella to shield yourself from strong sunlight. Confirm that people in the target audience use this wording naturally.
 7. **“Kung wala lang kaming importanteng lakad, hindi kami lalabas.” — Source-backed, everyday voice.** A resident explains avoiding unnecessary trips during extreme heat. [GMA Regional TV, April 8, 2025](https://gmanetwork.com/regionaltv/news/107487/hotter-weather-expected-during-holy-week-pagasa-says/story)
 
 **Language note:** “Tag-init” names the hot/dry season; it is useful vocabulary, but it is a season label rather than an everyday expression about how hot it feels today.
 
 ## 5. Leaving or Going Home (6 expressions)
 
-1. **“Hala, ang lakas! May dalang payong?” — Candidate—validate.** A quick reminder when heavy rain is falling and someone is about to leave.
-2. **“Magpalipas ka muna ng ulan bago ka bumiyahe.” — Candidate—validate.** Friendly advice to wait for the rain to ease before travelling.
-3. **“Mag-ingat sa baha, baka ma-stranded ka.” — Candidate—validate.** A warning about possible flooding and travel disruption. The app should only mention flood risk when supported by reliable flood information.
+1. **“Hala, ang lakas ng ulan! May dala kang payong?” — Validated.** A quick reminder when heavy rain is falling and someone is about to leave.
+2. **“Magpalipas ka muna ng ulan bago ka bumiyahe.” — Validated.** Friendly advice to wait for the rain to ease before travelling.
+3. **“Mag-ingat ka sa baha, baka ma-stranded ka.” — Candidate—validate.** A warning about possible flooding and travel disruption. The app should only mention flood risk when supported by reliable flood information.
 4. **“Mag-chat ka agad pag nakauwi ka na, ha?” — Candidate—validate.** A caring message asking someone to confirm that they arrived safely.
 5. **“Dapat kanina pa eh. Sobrang lakas ng ulan, baha pa.” — Source-backed, everyday voice.** A commuter describes being delayed by heavy rain and flooding. [ABS-CBN News, July 24, 2024](https://abs-cbn.com/regions/2024/7/24/commuters-brave-floods-along-major-road-in-cainta-rizal-1635)
-6. **“Iwasan nyo na din munang umalis ng bahay kung d naman masyadong kailangan.” — Source-backed public post.** A reminder to avoid unnecessary trips during habagat flooding. Preserve the original spelling as posted. [Interaksyon, July 22, 2025](https://interaksyon.philstar.com/trends-spotlights/2025/07/22/299413/ninong-ry-message-habagat-flooding/amp/)
+6. **“Iwasan nyo na din munang umalis ng bahay kung di naman masyadong kailangan.” — Source-backed public post.** A reminder to avoid unnecessary trips during habagat flooding. Preserve the original spelling as posted. [Interaksyon, July 22, 2025](https://interaksyon.philstar.com/trends-spotlights/2025/07/22/299413/ninong-ry-message-habagat-flooding/amp/)
 
 ## 6. Tone Guidelines
 
