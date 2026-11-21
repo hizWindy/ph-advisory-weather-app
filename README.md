@@ -42,7 +42,7 @@ The numbers always come from code. The AI only puts them into words, so it can't
 
 ## Status
 
-Planning. There is no app code yet. We build it in 3 weeks:
+Week 1 complete. Both starter apps (Frontend React and Backend FastAPI) are running locally. We build it in 3 weeks:
 
 | Week | Goal |
 |---|---|
@@ -95,9 +95,115 @@ These folders get added as we build. [docs/project-structure.md](docs/project-st
    cd ph-advisory-weather-app
    ```
 
-## How to run it
+## Run it on your laptop
 
-Coming soon. The steps will be in `frontend/README.md` and `backend/README.md` once the starter code is added.
+Both the frontend and backend applications run locally on your laptop. Open two terminal windows so you can run the backend API and the frontend dev server side-by-side.
+
+Detailed guides for each application:
+- **Frontend Guide:** [frontend/README.md](frontend/README.md)
+- **Backend Guide:** [backend/README.md](backend/README.md)
+
+### Prerequisites
+
+- [Git](https://git-scm.com/)
+- [Node.js](https://nodejs.org/) (LTS version)
+- [Python](https://www.python.org/downloads/) 3.10+ (Python 3.12 recommended)
+
+First, clone the repository if you haven't already:
+
+```bash
+git clone https://github.com/hizWindy/ph-advisory-weather-app.git
+cd ph-advisory-weather-app
+```
+
+---
+
+### Step 1: Start the Backend (Terminal 1)
+
+1. Navigate to the `backend/` folder:
+   ```bash
+   cd backend
+   ```
+
+2. Create and activate a Python virtual environment:
+   - **Windows PowerShell:**
+     ```powershell
+     python -m venv .venv
+     .venv\Scripts\Activate.ps1
+     ```
+   - **Windows Command Prompt:**
+     ```cmd
+     python -m venv .venv
+     .venv\Scripts\activate.bat
+     ```
+   - **macOS / Linux:**
+     ```bash
+     python3 -m venv .venv
+     source .venv/bin/activate
+     ```
+
+3. Install required Python packages:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. Create your local environment file:
+   - **Windows PowerShell:**
+     ```powershell
+     Copy-Item .env.example .env
+     ```
+   - **macOS / Linux / Command Prompt:**
+     ```bash
+     cp .env.example .env
+     ```
+
+5. Start the FastAPI development server:
+   ```bash
+   uvicorn app.main:app --reload
+   ```
+
+The backend server is now running:
+- **Root endpoint:** [http://127.0.0.1:8000](http://127.0.0.1:8000)
+- **Health check:** [http://127.0.0.1:8000/health](http://127.0.0.1:8000/health)
+- **City catalog:** [http://127.0.0.1:8000/cities](http://127.0.0.1:8000/cities)
+- **Interactive Swagger Docs:** [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
+
+*(Optional) Run automated backend tests in another terminal with the virtual environment activated:*
+```bash
+pytest -v
+```
+
+---
+
+### Step 2: Start the Frontend (Terminal 2)
+
+1. Open a new terminal and navigate to the `frontend/` folder:
+   ```bash
+   cd frontend
+   ```
+
+2. Install Node dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Start the Vite development server:
+   ```bash
+   npm run dev
+   ```
+
+4. Open the application in your browser:
+   - **Local URL:** [http://localhost:5173/](http://localhost:5173/)
+
+---
+
+### How they work together
+
+| Service | Technology | Local URL | Description |
+|---|---|---|---|
+| **Frontend** | React 19 + Vite | `http://localhost:5173` | User interface and weather cards |
+| **Backend** | FastAPI + Uvicorn | `http://127.0.0.1:8000` | REST API, weather logic, and AI advice |
+| **API Docs** | Swagger UI | `http://127.0.0.1:8000/docs` | Interactive endpoint testing |
 
 ## Rules in short
 
@@ -116,6 +222,7 @@ The full rules are in [CONTRIBUTING.md](CONTRIBUTING.md).
 | [CONTRIBUTING.md](CONTRIBUTING.md) | Rules for Git, pull requests and teamwork |
 | [docs/project-structure.md](docs/project-structure.md) | Where files go and who owns them |
 | [docs/github-projects-kanban.md](docs/github-projects-kanban.md) | How our task board works |
+| [docs/demos/week-1.md](docs/demos/week-1.md) | Week 1 demo notes: what works, what's next, what's blocked |
 | [docs/product-brief.pdf](docs/product-brief.pdf) | What the app is and who it's for |
 | [docs/team-guide.pdf](docs/team-guide.pdf) | Roles, how we work, tools |
 
